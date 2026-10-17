@@ -1,0 +1,181 @@
+StartMenu4Mac Source Available License
+Version 1.1 — 2026-10-17
+
+Copyright (c) 2026 Floop3
+
+IMPORTANT: This is a custom source-available license, NOT an OSI-approved
+open-source license. Commercial sale or monetization of the Software and
+Software-Derived Outputs is restricted.
+
+1. Definitions
+
+"Licensor" means the copyright holder of the original StartMenu4Mac
+materials who publishes them as "Floop3", and any valid successor or
+assignee holding the relevant rights.
+
+"Software" means the StartMenu4Mac source code, documentation, and
+executable forms made available with this License, but only to the
+extent that the Licensor is entitled to license those materials.
+
+"Modified Version" means a modification, adaptation, or derivative work
+of the Software, to the extent it contains copyright-protected material
+from the Software. Independently developed works are not automatically
+covered merely because they interoperate with the Software.
+
+"Distribute" means to provide a copy of the Software or a Modified
+Version to another person or legal entity. Merely running the Software
+or keeping modifications within one legal entity is not Distribution.
+
+"Corresponding Source" means the preferred form for modifying the
+distributed Software or Modified Version, including changes and the
+build scripts and configuration reasonably necessary to reproduce the
+distributed program. It does not require proprietary system tools,
+unmodified external dependencies available separately, or materials
+that the distributor has no right to redistribute.
+
+"Software-Derived Output" means a file, data, content, configuration,
+or other result that the Software or a Modified Version creates,
+generates, or materially transforms, and any copy, product, or service
+that includes or provides access to the Software or such a result. A
+result made in a separate application or independent business process
+is not a Software-Derived Output solely because the Software was used
+inside one organization to launch, find, pin, or organize applications;
+the Software must itself create or materially transform the result, or
+the result must include or provide access to the Software or a
+Software-Derived Output.
+
+2. Permission for Use, Modification, and Free Distribution
+
+Subject to compliance with this License, the Licensor grants everyone
+a worldwide, non-exclusive, royalty-free copyright license to use,
+reproduce, study, modify, create Modified Versions of, and Distribute
+the Software and Modified Versions without charging for the Software.
+
+These permissions apply to both individuals and commercial
+organizations. A commercial organization may use and modify the Software
+within its own legal entity for internal business operations, including
+as an incidental internal tool in a profit-making business, subject to
+Section 3. Internal use does not authorize selling or monetizing the
+Software or a Software-Derived Output.
+
+No prior individual permission is required for those activities.
+
+3. No Sale or Monetization of the Software or its Outputs
+
+Without separate written permission from the Licensor, you must not
+directly or indirectly monetize or receive consideration for:
+(a) selling, licensing, or otherwise making the Software or a Modified
+    Version available to another party for payment, including through
+    a fee, subscription, paid download, or access charge;
+(b) selling, licensing, bundling as a paid component, or otherwise
+    charging for a Software-Derived Output;
+(c) offering a hosted or managed product or service whose material
+    value is the Software, its functionality, or a Software-Derived
+    Output; or
+(d) evading these restrictions through renamed versions, trivial
+    changes, intermediaries, donations or tips solicited in connection
+    with access to, use of, or Distribution of the Software, or another
+    indirect arrangement.
+
+An organization may earn revenue from ordinary independent goods and
+services made in separate applications or business processes when the
+Software is used only as an incidental internal launcher or organizer
+and does not create or materially transform the sold result, accompany
+or form a paid component of it, provide access to it, or supply a
+material part of the paid service. This clarification does not permit
+the sale or other monetization of a Software-Derived Output itself.
+Merely installing or internally using the Software does not prohibit
+the organization's other revenue-generating business activity.
+
+4. Source Availability on Distribution
+
+If you Distribute the Software or a Modified Version, you must provide
+every recipient with the Corresponding Source for the copy received,
+without additional license or source-access fees, at the time of
+Distribution.
+
+You may provide that source alongside the copy or through a clearly
+identified, recipient-accessible, no-charge download location. Keep
+the source available for as long as you continue to offer that copy
+for Distribution.
+
+You do not have to publish your source to the general public on
+GitHub or elsewhere. Private use and changes that are not Distributed
+do not trigger this obligation.
+
+5. Conditions on Redistributed Versions
+
+When Distributing covered portions of the Software and their
+modifications, you must:
+(a) give each recipient a copy of this entire License;
+(b) license the covered portions and changes to those portions under
+    this same License, including Sections 3 and 4;
+(c) identify the version as modified when it has been changed, so that
+    it is not represented as the unmodified official release; and
+(d) preserve legal notices required by applicable third-party licenses.
+
+This requirement applies to covered portions and modifications of
+them, not to independently developed, separable materials over which
+the Licensor has no copyright. Other third-party license obligations
+remain in force.
+
+6. Attribution, Origin, and Trademarks
+
+A visible credit in an application's About screen, user interface,
+README, or marketing material is appreciated but is NOT mandatory.
+A link such as "Based on StartMenu4Mac by Floop3" is encouraged.
+
+You must not falsely claim to be the original author of material you
+did not create, impersonate the official project, or falsely imply
+endorsement by Floop3. Retain this License with redistributed covered
+materials; this is a license-notice requirement, not a mandatory
+in-product attribution.
+
+No trademark rights are granted, apart from accurate references
+needed to identify the Software and its origin.
+
+7. Separate Licensing by the Rights Holder
+
+This License does not restrict the Licensor from offering any material
+for which the Licensor owns the rights or has obtained sufficient
+permission under other terms, including proprietary, closed-source,
+commercial, and paid licenses.
+
+Contributions offered to the upstream project require a separate
+Contributor License Agreement (CLA). This License alone does NOT
+transfer ownership of independently authored fork modifications or
+grant Floop3 the right to relicense those independent modifications.
+
+A later license change by the rights holder does not automatically
+terminate valid licenses already granted for copies received under
+this License.
+
+8. No Warranty; No Support
+
+TO THE EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED
+"AS IS", WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+TITLE, OR NON-INFRINGEMENT. THE LICENSOR DOES NOT PROMISE UPDATES,
+BUG FIXES, SUPPORT, OR CONTINUED AVAILABILITY.
+
+TO THE EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSOR SHALL NOT BE
+LIABLE FOR ANY CLAIM, LOSS, OR DAMAGES ARISING FROM THE SOFTWARE OR
+ITS USE, EXCEPT WHERE SUCH EXCLUSION IS PROHIBITED BY LAW.
+
+9. Termination and Cure
+
+Permissions under this License terminate if you materially breach
+its conditions. If you cease the violation and remedy it within
+30 days after becoming aware of it, your permissions are reinstated,
+unless a court or other binding legal requirement provides otherwise.
+Termination does not retroactively revoke permissions validly granted
+to recipients who continue to comply with this License.
+
+10. Third-Party Rights and Severability
+
+This License covers only rights the Licensor may grant. It does not
+supersede separate licenses applicable to third-party libraries,
+assets, or other code. If a provision is unenforceable under applicable
+law, the remainder is intended to stay effective to the extent lawful.
+
+END OF LICENSE
